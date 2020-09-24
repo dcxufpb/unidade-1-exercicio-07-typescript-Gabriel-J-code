@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "version": "0.0.0",
+  "name": "example",
+  "devDependencies": {
+    "jest": ">=25.1.0",
+    "ts-jest": ">=25.2.0",
+    "@types/jest": ">=25.1.2"
+  },
+  "dependencies": {
+    "typescript": "4.0.2"
+  },
+  "scripts": {
+    "test": "jest --no-cache"
+  }
+}
